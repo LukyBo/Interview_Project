@@ -1,0 +1,15 @@
+.idea
+venv/
+env/
+ENV/
+.venv
+.env
+env./bak
+venv.bak/
+wheels/
+.Python
+Input
+PyCaret
+test
+knnModel.py
+route_segmentation.py
